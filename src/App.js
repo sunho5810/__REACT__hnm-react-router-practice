@@ -21,7 +21,7 @@ import PrivateRoute from './routes/PrivateRoute';
 
 function App() {
 
-  const [authenticate, setAuthenticate] = useState(false) // true면 로그인 됨 false면 안됨
+  const [authenticate, setAuthenticate] = useState(false) // true면 로그인 됨 false면 안됨 
 
   useEffect(() => {
     console.log("Aaaa", authenticate);
