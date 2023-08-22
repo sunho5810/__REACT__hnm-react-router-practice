@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcfe00e7.css",
-    "main.js": "/static/js/main.e847a466.js",
-    "static/js/787.21bf5388.chunk.js": "/static/js/787.21bf5388.chunk.js",
-    "index.html": "/index.html",
-    "main.fcfe00e7.css.map": "/static/css/main.fcfe00e7.css.map",
-    "main.e847a466.js.map": "/static/js/main.e847a466.js.map",
-    "787.21bf5388.chunk.js.map": "/static/js/787.21bf5388.chunk.js.map"
+    "main.css": "/__REACT__hnm-react-router-practice/static/css/main.fcfe00e7.css",
+    "main.js": "/__REACT__hnm-react-router-practice/static/js/main.eae5eafe.js",
+    "static/js/787.21bf5388.chunk.js": "/__REACT__hnm-react-router-practice/static/js/787.21bf5388.chunk.js",
+    "index.html": "/__REACT__hnm-react-router-practice/index.html",
+    "main.fcfe00e7.css.map": "/__REACT__hnm-react-router-practice/static/css/main.fcfe00e7.css.map",
+    "main.eae5eafe.js.map": "/__REACT__hnm-react-router-practice/static/js/main.eae5eafe.js.map",
+    "787.21bf5388.chunk.js.map": "/__REACT__hnm-react-router-practice/static/js/787.21bf5388.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcfe00e7.css",
-    "static/js/main.e847a466.js"
+    "static/js/main.eae5eafe.js"
   ]
 }
